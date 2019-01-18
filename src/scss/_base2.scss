@@ -1,10 +1,31 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
 li {
     a {
         color: black;
     }
 }
 
-.width {
-    width: 240px;
-  
+footer {
+    background-color: #1f3c5b;
+    padding-top: 15%;
 }
+
+h6 > a {
+    color: #0056B3;
+}
+
+.footerSocial {
+    color: white;
+}
+
+.lista a {
+    color: white;
+}
+
+.foto {
+    margin-bottom: -15%;
+}
+
